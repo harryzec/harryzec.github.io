@@ -2523,6 +2523,22 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.fill2 {
+				height: 100%;
+				left: 0;
+				position: absolute;
+				top: 0;
+				width: 100%;
+			}
+
+			.image.fill2 img {
+				height: 60%;
+				left: 16%;
+				position: absolute;
+				top: 16%;
+				width: 60%;
+			}
+
 /* List */
 
 	ol {
